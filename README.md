@@ -18,11 +18,12 @@
 | Collapsible FAQ Accordion | ![Alpine.js](https://img.shields.io/badge/Alpine.js-15kB-8BC0D0?style=flat) | [View Code](https://github.com/stkossman/collapsible-faq-accordion) | [Live Demo](https://stkossman.github.io/collapsible-faq-accordion/) |
 | Dynamic Pricing Calculator | ![Alpine.js](https://img.shields.io/badge/Alpine.js-15kB-8BC0D0?style=flat) | [View Code](https://github.com/stkossman/dynamic-pricing-calculator) | [Live Demo](https://stkossman.github.io/dynamic-pricing-calculator/) |
 | Form Validation with Live Feedback | ![Alpine.js](https://img.shields.io/badge/Alpine.js-15kB-8BC0D0?style=flat) | [View Code](https://github.com/stkossman/form-validation) | [Live Demo](https://stkossman.github.io/form-validation/) |
+| Character Counter | ![Stimulus](https://img.shields.io/badge/Stimulus-45kB-77E8B9?style=flat) | [View Code](https://github.com/stkossman/stimulus-character-counter) | [Live Demo](https://stkossman.github.io/stimulus-character-counter/) |
 
 ---
 
 ## Tech Stack
-- **Current Frameworks:** VanJS, htmx, Alpine.js
+- **Current Frameworks:** VanJS, htmx, Alpine.js, Stimulus
 - **Pure HTML** — Semantic markup without preprocessors
 - **Vanilla CSS** — Clean styling without frameworks
 - **No Build Tools** — Direct browser execution
@@ -38,9 +39,9 @@ Each project demonstrates:
 ---
 
 ## Roadmap
-- [ ] Comparison table of all three frameworks
+- [ ] Comparison table of all frameworks
 - [ ] Create projects using **Solid.js**
-- [ ] Create projects using **Stimulus**
+- [x] Create projects using **Stimulus**
 - [ ] Create projects using **Preact**
 - [ ] Improve repository structure and documentation
 - [x] **Website for this repo** - [View Live](https://stkossman.github.io/frameworks-mini-project/)
